@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", Arial, sans-serif;
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #17a2b8;
+}
+
+.wrapper{
+    width: 770px;
+    max-width: 95%;
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 10px;
+
+}
+
+.content-box{
+  padding: 13px 20px 0;
+  border-radius: 10px;
+  border: 1px solid #bfbfbf;
+}
+
+
+.typing-text{
+  max-height: 255px;
+  overflow-y: auto;
+}
+
+
+
+.content{
+
+}
+
